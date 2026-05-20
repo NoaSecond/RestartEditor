@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0 - UE5.4",
+	"FriendlyName": "Restart Editor",
+	"Description": "Adds a button to restart the Unreal Editor.",
+	"Category": "Editor",
+	"CreatedBy": "Noa Second",
+	"CreatedByURL": "https://noasecond.com",
+	"DocsURL": "https://noasecond.com",
+	"MarketplaceURL": "https://noasecond.com",
+	"SupportURL": "https://noasecond.com",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "RestartEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Icon": "Resources/Icon128.png"
+}
