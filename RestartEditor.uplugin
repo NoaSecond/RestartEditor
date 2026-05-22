@@ -17,7 +17,8 @@
 		{
 			"Name": "RestartEditor",
 			"Type": "Editor",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64", "Mac", "Linux" ]
 		}
 	],
 	"Icon": "Resources/Icon128.png"
