@@ -1,4 +1,4 @@
-// Copyright Noa Second. All Rights Reserved.
+// Copyright Noa Second 2026. All Rights Reserved.
 
 #pragma once
 
