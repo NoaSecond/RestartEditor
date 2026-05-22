@@ -71,8 +71,7 @@ After installation, use the restart action exposed by the plugin from the editor
 
 ## License
 
-This plugin is distributed under the Fab Adapted License. See the
-`LICENSE` file in this repository for the full text.
+This plugin is distributed under the Fab Standard License.
 
 ## Support
 
