@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2 - UE5.7",
+	"VersionName": "1.0.2 - UE5.4",
 	"FriendlyName": "Restart Editor",
 	"Description": "Adds a button to restart the Unreal Editor.",
 	"Category": "Editor",
@@ -10,7 +10,7 @@
 	"DocsURL": "https://github.com/NoaSecond/RestartEditor/blob/main/README.md",
 	"MarketplaceURL": "https://www.fab.com/listings/9bacabff-bde5-432d-a7bb-960fe03c4b74",
 	"SupportURL": "https://github.com/NoaSecond/RestartEditor",
-	"EngineVersion": "5.7.0",
+	"EngineVersion": "5.4.0",
 	"CanContainContent": false,
 	"EnabledByDefault": true,
 	"Modules": [
